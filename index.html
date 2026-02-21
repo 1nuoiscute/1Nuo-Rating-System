@@ -250,7 +250,7 @@
         const user = document.getElementById('gh-user').value;
         const repo = document.getElementById('gh-repo').value;
         const token = document.getElementById('gh-token').value;
-        const path = "source/rate/rate_data.json";
+        const path = "rate_data.json";
 
         if (!user || !repo || !token) { alert("❌ 请先完成云端设置！"); toggleCloud(); return; }
 
@@ -451,4 +451,5 @@
     updateAll();
 </script>
 </body>
+
 </html>
