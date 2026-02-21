@@ -1,4 +1,7 @@
 # 1Nuo-Rating-System
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-在线演示-blue?style=for-the-badge&logo=googlechrome&logoColor=white)](https://www.1nuo.me/rate/)
+[![License](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)](https://github.com/1nuoiscute/1Nuo-Rating-System/blob/main/LICENSE)
+
 一个静态博客专用的量化评测管理工具。通过可视化后台直接驱动 GitHub API 更新 JSON 数据，实现零服务器成本的云端同步。内置加权评分引擎与 ECharts 可视化看板，专为追求量化评测、轻代码维护的博主打造。
 
 <p align="center">
