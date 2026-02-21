@@ -1,0 +1,20 @@
+[
+  {
+    "id": "template-001",
+    "name": "示例项目",
+    "slogan": "点击管理后台进行修改",
+    "short_review": "✍️ 记录于: 2026/2/22\n\n这是一个空白模板，用于初始化系统。",
+    "images": [],
+    "location": "城市, 省份",
+    "visit_time": "2026/02",
+    "scores": {
+      "architecture": { "text": "0", "val": 0 },
+      "culture": { "text": "0", "val": 0 },
+      "experience": { "text": "0", "val": 0 },
+      "value": { "text": "0", "val": 0 }
+    },
+    "tags": ["模板"],
+    "final_score": 0,
+    "rating": "D"
+  }
+]
