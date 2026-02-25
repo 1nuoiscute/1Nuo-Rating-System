@@ -1,4 +1,4 @@
-# 1Nuo-Rating-System
+# 1nuo-rate
 
 [![Live Demo](https://img.shields.io/badge/Live%20Demo-在线演示-blue?style=for-the-badge&logo=googlechrome&logoColor=white)](https://www.1nuo.me/rate/)
 [![English](https://img.shields.io/badge/Language-English-lightgrey?style=for-the-badge)](README_EN.md)
